@@ -1,5 +1,7 @@
 # under-consultas
 
+script para consultas de IP,CEP,CNPJ
+
 pkg install git
 
 pkg install python
