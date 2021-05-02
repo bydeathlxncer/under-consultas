@@ -15,3 +15,5 @@ cd under-consultas
 chmod +x *
 
 python under-consultas.py
+
+
