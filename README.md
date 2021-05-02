@@ -12,7 +12,7 @@ git clone https://github.com/bydeathlxncer/under-consultas.git
 
 cd under-consultas
 
-chmod +x *
+chmod + x *
 
 python under-consultas.py
 
