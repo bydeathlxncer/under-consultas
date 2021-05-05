@@ -14,7 +14,7 @@ git clone https://github.com/bydeathlxncer/under-consultas.git
 
 cd under-consultas
 
-pip install requirements
+pip install requests
 
 chmod + x *
 
