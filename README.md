@@ -1,6 +1,6 @@
 ![20210428_201733](https://user-images.githubusercontent.com/83184525/116802660-e79fa280-aaea-11eb-88e4-a3711f321831.png)
 # under-consultas
-
+mo cota q kibei esse layout kkkjj
 script para consultas de IP,CEP,CNPJ
 pkg install git
 
