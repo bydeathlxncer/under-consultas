@@ -8,8 +8,6 @@ pkg install python
 
 pkg install python3
 
-pkg install pip
-
 git clone https://github.com/bydeathlxncer/under-consultas.git
 
 cd under-consultas
